@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "シンクロナイザー",
+  "base_artist": "Orangestar",
+  "createdAt": "2026-03-13T12:12:07.765149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シンクロナイザー",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/01_シンクロナイザー_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シンクロナイザー - Synchronizer",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/02_シンクロナイザー_-_Synchronizer_Orangestar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンクロナイザー",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_シンクロナイザー_Orangestar.txt"
+    }
+  ]
+}
